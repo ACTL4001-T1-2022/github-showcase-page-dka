@@ -276,4 +276,5 @@ DKA recommends that a 70% probability of adequacy is maintained.
 <img src = "./assets/lim.png" width = 80%>
 </p>
 
-## Conclusion
+# Thank you!
+Thank you for reading our project! This is a summary of the works in our final project, which containts more in-depth methodology and justification!
