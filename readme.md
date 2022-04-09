@@ -161,10 +161,29 @@ We have developed a multi-step implementation plan summarised below. The four ke
 </p>
 
 ### Team Selection
+The proposed team consists mainly of domestic Raritan players from a mixture of leagues, that are not in a national team. To supplement the lack of international exposure, several loaners are included in the initial team. 
 
+<p align="center">
+<img src = "./assets/itps.png" width = 80%>
+</p>
+
+DKA advises the committee to introduce replacement players one year in advance, for retiring players reaching age 27 to allow the transfer of skills and game knowledge. The first replacement begins in 2024 for 5 players. 
+<p align="center">
+<img src = "./assets/replace.png" width = 80%>
+</p>
 
 ### Infrastructure Developement
-
+To meet and boost the projected growing demand of soccer in Rarita, DKA recommends:
+<br/>
+•	Developing 8 stadiums with training facilities in the next 10 years
+<br/>
+•	Establish connections and sponsorships with local companies and the RFL.
+<br/>
+<br/>
+DKA has projected the revenue and expense (excluding initial investment cost) of the stadiums upon completion . We observe that stadiums could generate a strong revenue stream upon international success of RNT. The fund will be vital for future hosting endeavours and strengthening RFL and RNT. 
+<p align="center">
+<img src = "./assets/infr.png" width = 80%>
+</p>
 
 
 
