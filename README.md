@@ -1,5 +1,5 @@
 
-<img src = "DKA.gif" width = 100%/>
+<img src = "dka.gif" width = 100%/>
 
 _ACTL 4001 - 2022 SOA Student Challenge_
 
