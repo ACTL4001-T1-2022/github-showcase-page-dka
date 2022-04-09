@@ -15,14 +15,24 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
 ---
 
 ## Table of Contents
+
   * [Scope and Objectives](#scope-and-objectives)
   * [Model Design](#model-design)
-  * [Team Selection](#team-selection)
-  * [Economic Projection](#economic-projection)
-  * [Implementation Plan](#implementation-plan)
-  * [Risk and Risk Mitigation](#risk-and-risk-mitigation)
+    + [1. Team Performance Model](#1-team-performance-model)
+  * [2. Team Selection](#2-team-selection)
+  * [3. Economic Projection](#3-economic-projection)
+    + [Performance-Led Economic Impact](#performance-led-economic-impact)
+    + [Project-Led Economic Impact](#project-led-economic-impact)
+  * [4. Implementation Plan](#4-implementation-plan)
+    + [Team Selection](#team-selection)
+    + [Infrastructure Developement](#infrastructure-developement)
+    + [Net Cashflow](#net-cashflow)
+    + [Reporting Metric](#reporting-metric)
+  * [5. Risk and Risk Mitigation](#5-risk-and-risk-mitigation)
+  * [6. Adeqaucy Analysis](#6-adeqaucy-analysis)
   * [Limitations](#limitations)
-  * [Conclusion](#conclusion)
+
+
 ---
 
 ## Scope and Objectives
