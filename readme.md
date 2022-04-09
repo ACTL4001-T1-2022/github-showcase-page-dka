@@ -35,7 +35,7 @@ DKA has recognizes the limited dataset that the committee has provided us and ha
 ## Model Design
 We defined a 5-step approach to identify the optimal team for Rarita.
 <p align="center">
-<img src = "model.png" width = 100%>
+<img src = "./model.png" width = 100%>
 </p>
 
 ### 1. Team Performance Model
@@ -49,7 +49,7 @@ The advantage of this approach include:
 It follows the below algorithm in simulating the outcome of the game. 
 
 <p align="center">
-<img src = "tpm.png" width = 60%>
+<img src = "./tpm.png" width = 60%>
 </p>
 
 For the purpose of the assignment, a round robin approach was adopted for the group stage. This involves simulating 625 different sets of games, each 10,000 times! The R code is available [here](01_SOA_Model_v1.0.R), with an accompanying excel setup file [here](01_SOA_Model_Input_v0.1.xlsm). To run the code, download both files, save it in the same folder and run all the code in R. The output will be in a seperate excel sheet.
@@ -65,7 +65,7 @@ After the group stage, we ran a seperate single elimination bracket using the si
 To choose the optimal team, we aim to maximise the key parameters using in the team performance model. For each player, we collated their relevant score in shooting, passing and defending, and calculated a score based in each area. This was then scaled based on thier position as below. 
 
 <p align="center">
-<img src = "ics.png" width = 80%>
+<img src = "./ics.png" width = 80%>
 </p>
 
 Using this score, we also projected the growth and decline rate of players at different ages and also the relative performance of players in different league. The projected growth and decline rate is applied to simulate future probablities of winning above.
@@ -73,7 +73,7 @@ Using this score, we also projected the growth and decline rate of players at di
 To futher assist the committee to select a national team in the future, we have developed a comprehensive qualitative decision tree for Rarita. 
 
 <p align="center">
-<img src = "dt.png" width = 80%>
+<img src = "./dt.png" width = 80%>
 </p>
 
 
@@ -81,7 +81,7 @@ To futher assist the committee to select a national team in the future, we have 
 The final team selected is as below.
 
 <p align="center">
-<img src = "ts.png" width = 80%>
+<img src = "./ts.png" width = 80%>
 </p>
 
 
