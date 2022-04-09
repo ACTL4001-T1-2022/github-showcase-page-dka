@@ -1,22 +1,49 @@
-# Actuarial Theory and Practice A
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+<img src = DKA.gif width = 100%/>
+
+_ACTL 4001 - 2022 SOA Student Challenge_
+
+
+# About DKA
+Hi everyone! We are a team of two students who completed the SOA Student Challenge as part of the ACTL4001 course.
+
+:boy: Ho On Tam
+
+:girl: Fan (Angela) Bu
+
 
 ---
+# Project Outline
+### Table of Contents
+  * [Scope and Objectives](#scope-and-objectives)
+  * [Model Design](#model-design)
+  * [Team Selection](#team-selection)
+  * [Economic Projection](#economic-projection)
+  * [Implementation Plan](#implementation-plan)
+  * [Risk and Risk Mitigation](#risk-and-risk-mitigation)
+  * [Limitations](#limitations)
+  * [Conclusion](#conclusion)
 
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+## Scope and Objectives
+DKA aims to develop a comprehensive simulation model for the committee, with no defined parameters based on the dataset, to allow the committee to continuously monitor the performance of the RNT without adjusting the model. In addition to the model, we aim to provide a development plan that would promote soccer in Rarita and boost the economy in the surrounding region. 
 
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
+To further assist the committee to monitor and review the team performance, we have provided several frameworks to minimize the human bias in decision making. We have also provided a review schedule and metrics that the committee should assess on a timely basis. 
+DKA has recognizes the limited dataset that the committee has provided us and have highlighted the assumptions and relevant risk associated within this report. 
 
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+## Model Design
+
+## Team Selection
+
+## Economic Projection
+
+## Implementation Plan
+
+
+## Risk and Risk Mitigation
+
+## Limitations
+
+
+## Conclusion
