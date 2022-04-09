@@ -30,7 +30,8 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
     + [Reporting Metric](#reporting-metric)
   * [5. Risk and Risk Mitigation](#5-risk-and-risk-mitigation)
   * [6. Adeqaucy Analysis](#6-adeqaucy-analysis)
-  * [Limitations](#limitations)
+  * [7. Limitations](#7-limitations)
+  * [Reference List](#reference-list)
 
 
 ---
