@@ -39,10 +39,26 @@ We defined a 5-step approach to identify the optimal team for Rarita.
 </p>
 
 ### 1. Team Performance Model
+We have has developed a simulation-based approach to predict the outcome of individual games. This model is used to validate the chosen Raritan National Team against the competitors. 
+
+The advantage of this approach include:
+•	Scalability of the model as there are no parameters defined.
+•	Results can be monitored as the model is independent of yearly data. 
+•	Minimize assumptions required due to limited data, as opposed to GLM, GBM approaches. 
+
+It follows the below algorithm in simulating the outcome of the game. 
 
 <p align="center">
 <img src = "tpm.png" width = 60%>
 </p>
+
+For the purpose of the assignment, a round robin approach was adopted for the group stage. This involves simulating 625 different sets of games, each 10,000 times! The R code is available [here](01_SOA_Model_v1.0.R), with an accompanying excel setup file [here](01_SOA_Model_Input_v0.1.xlsm). To run the code, download both files, save it in the same folder and run all the code in R. The output will be in a seperate excel sheet.
+
+<p align="center">
+<img src = "prob.png" width = 60%>
+</p>
+
+
 
 ## Team Selection
 
