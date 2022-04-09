@@ -34,11 +34,15 @@ DKA has recognizes the limited dataset that the committee has provided us and ha
 
 ## Model Design
 We defined a 5-step approach to identify the optimal team for Rarita.
-<img src = "model.png" width = 100%/>
+<p align="center">
+<img src = "model.png" width = 100%>
+</p>
 
 ### 1. Team Performance Model
-<img src = "tpm.png" width = 100%/>
 
+<p align="center">
+<img src = "tpm.png" width = 60%>
+</p>
 
 ## Team Selection
 
