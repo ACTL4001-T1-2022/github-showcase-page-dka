@@ -73,9 +73,8 @@ Using this score, we also projected the growth and decline rate of players at di
 To futher assist the committee to select a national team in the future, we have developed a comprehensive qualitative decision tree for Rarita. 
 
 <p align="center">
-<img src = "./assets/dt.png" width = 80%>
+<img src = "./assets/dt.png" width = 50%>
 </p>
-
 
 
 The final team selected is as below.
@@ -85,7 +84,74 @@ The final team selected is as below.
 </p>
 
 
-## Economic Projection
+## 3. Economic Projection
+### Performance-Led Economic Impact
+
+**Economic Growth and GDP**
+<br/>
+Historically, there has been a strong relationship between nation’s GDP and strong international performance. In the case of Rarita, we expect:
+<br/>
+•	Increase consumption following each win in the elimination stage of approximately 20%, with a significant loss of approximately 40% if eliminated due to consumer sentiment, celebrations, and merchandise. 
+<br/>
+•	Increase participation in sports (1-3%) inspired by strong RNT results leading to higher consumption in sports-related purchases.
+<br/>
+These effects are generally short-lived and are credited from expected future consumption.
+<br/>
+<br/>
+**Equity Market**
+<br/>
+•	Depending on the performance of RNT in the elimination round, there will be increased short-term volatility within the equity market for the winner and runner-up.
+<br/>
+•	Based on empirical data, the winning nation is expected to outperform the market by 3.5%, with the runner-up underperforming by 4%. 
+<br/>
+The effects are generally reversed within one year.
+<br/>
+<br/>
+**Tourism and International Reputation**
+<br/>
+•	Rarita is expected to see a surge in international recognition and support following competitive results.
+<br/>
+•	Larger awareness across social media platforms, with TikTok followers expected to triple, matching other nations with similar performance.
+<br/>
+•	This will lead to more tourism across Rarita, especially after the development of new stadiums from 2026. 
+<br/>
+<br/>
+### Project-Led Economic Impact
+**Infrastructure**
+<br/>
+The proposed stadiums are concentrated around East and West Rarita and expected to:
+<br/>
+•	Increase employment in the construction sector of 3% in the local areas.
+<br/>
+•	Distribute wealth between Central Rarita and East and West Rarita as more investments are made around the stadiums.
+<br/>
+•	However, the jobs are likely to be temporary and the revenue generated from the revenue may not be fully realized by local community.
+<br/>
+•	Furthermore, as more stadiums are constructed, the maintenance cost and renovation cost may cause the committee to be insolvent. 
+<br/>
+•	DKA proposes a set of long-term infrastructure projects to facilitate job growth and recommend the committee to hire local vendors within the stadium.
+<br/>
+<br/>
+**Hosting Tournaments**
+<br/>
+After the proposed stadiums are built, Rarita will be eligible to host the tournament. Expected benefits (and costs) include:
+<br/>
+•	Significant growth in tourism (short-term boost of > 1 million) with potential to attract more tourist in the long run with gained international exposure.
+<br/>
+•	Increase connectivity within Rarita with added transportation to support the tournament.
+<br/>
+•	Long term growth if the infrastructure built during the tournament is transferable for daily use of local citizen.
+<br/>
+•	However, this might conflict with other infrastructure development in Rarita affecting economic growth. 
+<br/>
+•	May lead to significant debt post-tournament, which may take years to repay. 17
+<br/>
+<br/>
+_At this stage, we recommend the committee to host isolated, friendly tournaments. This will significantly reduce the cost of hosting and:_
+<br/>
+•	The committee can target specific development regions and promote tourism and retailing by hosting frequent friendly competitions.
+<br/>
+•	Introduce foreign investment into West Rarita, to reduce the inequality in wealth distribution. 
 
 ## Implementation Plan
 
