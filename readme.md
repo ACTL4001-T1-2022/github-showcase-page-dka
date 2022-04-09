@@ -259,6 +259,15 @@ To further assess the solvency risk of the combined RNT project and whether addi
 <br/>
 DKA recommends that a 70% probability of adequacy is maintained. 
 
+<p align="center">
+<img src = "./assets/adq.png" width = 80%>
+</p>
+
+**Key Observations:**
+<br/>
+•	Without investment, insolvency is certain by 2028
+<br/>
+•	Optimal allocation at 40% invested (with injection) as it is less subjected to investment fluctuations with significant benefit over not-investing. 
 
 
 ## Limitations
