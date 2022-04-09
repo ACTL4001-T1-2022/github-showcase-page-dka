@@ -4,6 +4,7 @@ plugins:
 markdown: GFM
 
 
-title: nil
+title: Team DKA
+
 github:
   is_project_page: false
