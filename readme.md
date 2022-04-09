@@ -57,7 +57,7 @@ For the purpose of the assignment, a round robin approach was adopted for the gr
 After the group stage, we ran a seperate single elimination bracket using the simulating probabilities from above. The resultant probability of reaching each stage for the chosen team is as below. 
 
 <p align="center">
-<img src = "prob.png" width = 80%>
+<img src = "./assets/prob.png" width = 80%>
 </p>
 
 
@@ -185,9 +185,18 @@ DKA has projected the revenue and expense (excluding initial investment cost) of
 <img src = "./assets/infr.png" width = 80%>
 </p>
 
+### Net Cashflow
+A further breakdown of projected total revenue and expense (invlusive of salary) is provided below.
 
+<p align="center">
+<img src = "./assets/pnl.png" width = 80%>
+</p>
+
+We note that the inital gap is due to large cash outflow to infrastructure developement and strategic recruitment. Rarita is expected to break even from 2032 and the expected solvency is analysed below. 
 
 ## Risk and Risk Mitigation
+
+
 
 ## Limitations
 
