@@ -61,12 +61,29 @@ After the group stage, we ran a seperate single elimination bracket using the si
 </p>
 
 
-## Team Selection
+## 2. Team Selection
 To choose the optimal team, we aim to maximise the key parameters using in the team performance model. For each player, we collated their relevant score in shooting, passing and defending, and calculated a score based in each area. This was then scaled based on thier position as below. 
 
 <p align="center">
 <img src = "ics.png" width = 80%>
 </p>
+
+Using this score, we also projected the growth and decline rate of players at different ages and also the relative performance of players in different league. The projected growth and decline rate is applied to simulate future probablities of winning above.
+
+To futher assist the committee to select a national team in the future, we have developed a comprehensive qualitative decision tree for Rarita. 
+
+<p align="center">
+<img src = "dt.png" width = 80%>
+</p>
+
+
+
+The final team selected is as below.
+
+<p align="center">
+<img src = "ts.png" width = 80%>
+</p>
+
 
 ## Economic Projection
 
