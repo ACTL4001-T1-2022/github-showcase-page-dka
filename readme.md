@@ -18,7 +18,7 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
 
   * [Scope and Objectives](#scope-and-objectives)
   * [Model Design](#model-design)
-    + [1. Team Performance Model](#1-team-performance-model)
+  * [1. Team Performance Model](#1-team-performance-model)
   * [2. Team Selection](#2-team-selection)
   * [3. Economic Projection](#3-economic-projection)
     + [Performance-Led Economic Impact](#performance-led-economic-impact)
@@ -48,7 +48,7 @@ We defined a 5-step approach to identify the optimal team for Rarita.
 <img src = "./assets/model.png" width = 100%>
 </p>
 
-### 1. Team Performance Model
+## 1. Team Performance Model
 We have has developed a simulation-based approach to predict the outcome of individual games. This model is used to validate the chosen Raritan National Team against the competitors. 
 
 The advantage of this approach include:
