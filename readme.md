@@ -202,7 +202,7 @@ We advise the committee to perform an annual review, biannual strategy review an
 </p>
 
 
-## Risk and Risk Mitigation
+## 5. Risk and Risk Mitigation
 
 <p align="center">
 <img src = "./assets/rm.png" width = 90%>
@@ -248,6 +248,16 @@ Mitigation: Currently, there is limited data on the market rates of the Raritan 
 <br/>
 <br/>
 Mitigation: The accuracy of the model will increase with more observed data as the ICS and IAS projections become more accurate. The expected team performance should be evaluated on an annual basis. To accommodate for performance and injury risk, the team includes 9 substitutes. 
+
+## 6. Adeqaucy Analysis
+To further assess the solvency risk of the combined RNT project and whether additional funding is required, DKA conducted an adequacy analysis by:
+<br/>
+•	Simulating the probability of adequacy over 10,000 simulations, by setting inflation, investment, and wage growth as random variables
+<br/>
+•	Comparing different scenarios: with or without injection of $100,000,000 at 2025, different proportion of asset invested (0%, 40%, 80%)
+<br/>
+<br/>
+DKA recommends that a 70% probability of adequacy is maintained. 
 
 
 
