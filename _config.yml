@@ -4,6 +4,6 @@ plugins:
 markdown: GFM
 
 
-title: null
+title: nil
 github:
   is_project_page: false
