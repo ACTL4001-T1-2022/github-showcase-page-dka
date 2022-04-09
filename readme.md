@@ -198,11 +198,56 @@ We note that the inital gap is due to large cash outflow to infrastructure devel
 We advise the committee to perform an annual review, biannual strategy review and a directional review every 5 years to ensure that the Raritan National Team remains competitive and that domestic talent is discovered.
 
 <p align="center">
-<img src = "./assets/rm.png" width = 90%>
+<img src = "./assets/report.png" width = 60%>
 </p>
 
 
 ## Risk and Risk Mitigation
+
+<p align="center">
+<img src = "./assets/rm.png" width = 90%>
+</p>
+
+**Consumer Discretionary**
+<br/>
+•	Large disruptions may affect future attendance rates, e.g. further lockdowns from COVID-19
+<br/>
+•	Economic recession may impact attendance as individuals have lower disposable income
+<br/>
+<br/>
+Mitigation: Adopt a flexible pricing model, with admission price adjustments reviewed biannually (strategy review). Marketing strategies can be adopted in combination with sponsors to boost viewership both in person and at home.
+<br/>
+<br/>
+**ESG**
+<br/>
+•	Cultural differences in loaner’s home country and Rarita (languages and values)
+<br/>
+•	Climate related revenue reduction from physical risk and increase in expenses from policy changes (E.g. carbon pricing) 
+<br/>
+<br/>
+Mitigation: Consider cultural fit in addition to performance when considering loaners. Strategy review should assess and include provisions required for climate-related items. Currently, no provisions are made as there is insufficient information on the regulations in Rarita.
+<br/>
+<br/>
+**Financial**
+<br/>
+•	Exchange rate fluctuations may disincentivize tourist from attending Raritan tournaments.
+<br/>
+•	Investment rates are implied from the market and not representative of Raritan equity markets
+<br/>
+•	Insolvency due to market fluctuations and project delays
+<br/>
+<br/>
+Mitigation: Currently, there is limited data on the market rates of the Raritan equity market, to mitigate the risk, the model should be updated annually and adjust for previous experience. The committee could consider discounts for tourist attending soccer events when exchange rates are high to smoothen the demand deficiency.
+<br/>
+<br/>
+**Team Performance**
+<br/>
+•	The current probability projections rely heavily on two years of observed data, the model may be biased or inaccurate.
+<br/>
+•	Performance and injury risk can significantly affect attendance, and we are unable to project it due to lack of data.
+<br/>
+<br/>
+Mitigation: The accuracy of the model will increase with more observed data as the ICS and IAS projections become more accurate. The expected team performance should be evaluated on an annual basis. To accommodate for performance and injury risk, the team includes 9 substitutes. 
 
 
 
