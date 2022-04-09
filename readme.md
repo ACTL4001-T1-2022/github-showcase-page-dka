@@ -13,8 +13,8 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
 
 
 ---
-# Project Outline
-### Table of Contents
+
+## Table of Contents
   * [Scope and Objectives](#scope-and-objectives)
   * [Model Design](#model-design)
   * [Team Selection](#team-selection)
@@ -23,7 +23,7 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
   * [Risk and Risk Mitigation](#risk-and-risk-mitigation)
   * [Limitations](#limitations)
   * [Conclusion](#conclusion)
-
+---
 
 ## Scope and Objectives
 DKA aims to develop a comprehensive simulation model for the committee, with no defined parameters based on the dataset, to allow the committee to continuously monitor the performance of the RNT without adjusting the model. In addition to the model, we aim to provide a development plan that would promote soccer in Rarita and boost the economy in the surrounding region. 
@@ -62,6 +62,11 @@ After the group stage, we ran a seperate single elimination bracket using the si
 
 
 ## Team Selection
+To choose the optimal team, we aim to maximise the key parameters using in the team performance model. For each player, we collated their relevant score in shooting, passing and defending, and calculated a score based in each area. This was then scaled based on thier position as below. 
+
+<p align="center">
+<img src = "ics.png" width = 80%>
+</p>
 
 ## Economic Projection
 
