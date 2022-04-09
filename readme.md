@@ -154,6 +154,13 @@ _At this stage, we recommend the committee to host isolated, friendly tournament
 •	Introduce foreign investment into West Rarita, to reduce the inequality in wealth distribution. 
 
 ## Implementation Plan
+We have developed a multi-step implementation plan summarised below. The four key deliverables are team selection, infrastructure developement, academy setup and strenghtening the RFL.
+
+<p align="center">
+<img src = "./assets/tpm.png" width = 60%>
+</p>
+
+
 
 
 ## Risk and Risk Mitigation
