@@ -3,5 +3,7 @@ plugins:
   - jemoji
 markdown: GFM
 
-name: Team DKA
+
 title: null
+github:
+  is_project_page: false
