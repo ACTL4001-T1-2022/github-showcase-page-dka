@@ -272,5 +272,8 @@ DKA recommends that a 70% probability of adequacy is maintained.
 
 ## Limitations
 
+<p align="center">
+<img src = "./assets/lim.png" width = 80%>
+</p>
 
 ## Conclusion
