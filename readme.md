@@ -194,6 +194,14 @@ A further breakdown of projected total revenue and expense (invlusive of salary)
 
 We note that the inital gap is due to large cash outflow to infrastructure developement and strategic recruitment. Rarita is expected to break even from 2032 and the expected solvency is analysed below. 
 
+### Reporting Metric
+We advise the committee to perform an annual review, biannual strategy review and a directional review every 5 years to ensure that the Raritan National Team remains competitive and that domestic talent is discovered.
+
+<p align="center">
+<img src = "./assets/rm.png" width = 80%>
+</p>
+
+
 ## Risk and Risk Mitigation
 
 
