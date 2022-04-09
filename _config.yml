@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 plugins:
   - jemoji
 markdown: GFM
+
+name: Team DKA
+title: null
