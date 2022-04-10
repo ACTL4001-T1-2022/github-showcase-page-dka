@@ -281,6 +281,7 @@ To further assess the solvency risk of the combined RNT project and whether addi
 <br/>
 DKA recommends that a 70% probability of adequacy is maintained. 
 <br/>
+<br/>
 <p align="center">
 <img src = "./assets/adq.png" width = 80%>
 </p>
