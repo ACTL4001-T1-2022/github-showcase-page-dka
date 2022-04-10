@@ -316,29 +316,29 @@ Thank you for reading our project! This is a summary of the works in our final p
 ><br/>
 >Anon, How to become a football scout & how much do they earn? How to become a football scout & how much do they earn? | Goal.com. Available at: https://www.goal.com/en-ph/news/how-to-become-football-scout-how-much-they-earn/1at7qoa2mdeec18jk96trdsshy [Accessed March 26, 2022]. 
 ><br/>
-Dendir, S., 2016. Sports analytics : A guide for coaches, managers, and other decision makers. Available at: https://searchworks.stanford.edu/articles/nlebk__607491 [Accessed February 26, 2022]. 
-<br/>
-Farah, L. & Hesam, Z., 2021. Racial abuse of england players exposes deep societal fractures and the need for change. World Economic Forum. Available at: https://www.weforum.org/agenda/2021/07/racial-abuse-of-england-players-exposes-deep-societal-fractures-and-the-need-for-change/ [Accessed March 10, 2022]. 
-<br/>
-Goldman Sachs, 2014. The World Cup and Economics 2014 - goldman sachs. The World Cup and Economics 2014. Available at: https://www.goldmansachs.com/insights/archive/world-cup-and-economics-2014-folder/world-cup-economics-report.pdf [Accessed March 10, 2022]. 
-<br/>
-Graeme, B., 2020. How long does it take to build a football stadium? CoventryLive. Available at: https://www.coventrytelegraph.net/sport/football/football-news/how-long-take-build-football-18634036 [Accessed March 10, 2022]. 
-<br/>
-Jones, R., 2022. Adidas suspends kit deal with Russian FA . SportsPro. Available at: https://www.sportspromedia.com/news/adidas-russia-football-kit-sponsorship-deal-suspended/#:~:text=with%20immediate%20effect.-,',US%2414.4%20million)%20per%20year. [Accessed March 24, 2022]. 
-<br/>
-Juan, B., 2020. Hosting the FIFA World Cup: An economic ... - digital showcase. University of Lynchburg. Available at: https://digitalshowcase.lynchburg.edu/cgi/viewcontent.cgi?article=1159&context=utcp [Accessed March 12, 2022]. 
-<br/>
-Kelly, R., 2018. World Cup 2018 prize money: How much do the winners get & countries' bonus payments. World Cup 2018 prize money: How much do the winners get & countries' bonus payments | Goal.com. Available at: https://www.goal.com/en-us/news/world-cup-2018-prize-money-how-much-do-the-winners-get-countries-/h9rstxkx3z6k1c8eonct5g1xa [Accessed March 15, 2022]. 
-<br/>
-Matheson, V., 2014. Were the billions Brazil spent on World Cup stadiums worth it? FiveThirtyEight. Available at: https://fivethirtyeight.com/features/were-the-billions-brazil-spent-on-world-cup-stadiums-worth-it/ [Accessed March 21, 2022]. 
-<br/>
-Olenski, S., 2014. The impact of the World Cup on online shopping and consumer spending. Forbes. Available at: https://www.forbes.com/sites/steveolenski/2014/07/17/the-impact-of-the-world-cup-on-online-shopping-and-consumer-spending/?sh=5237a8835ef1 [Accessed March 10, 2022]. 
-<br/>
-Person, R., 2022. Adidas trumps rival Puma to supply Italian soccer kit from 2023. Reuters. Available at: https://www.reuters.com/lifestyle/sports/adidas-ousts-puma-kit-italy-soccer-team-2023-2022-03-09/ [Accessed March 13, 2022]. 
-<br/>
-Published by M. Szmigiera & 12, M., 2021. Average real wage growth globally 2006-2019. Statista. Available at: https://es.statista.com/statistics/1234219/average-real-wage-growth-globally/ [Accessed March 10, 2022]. 
-<br/>
-Riach, J., 2015. West Ham's Olympic Stadium running costs 'to be funded by taxpayer'. The Guardian. Available at: https://www.theguardian.com/football/2015/aug/06/bbc-claims-west-ham-olympic-stadium [Accessed March 25, 2022]. 
+>Dendir, S., 2016. Sports analytics : A guide for coaches, managers, and other decision makers. Available at: https://searchworks.stanford.edu/articles/nlebk__607491 >[Accessed February 26, 2022]. 
+><br/>
+>Farah, L. & Hesam, Z., 2021. Racial abuse of england players exposes deep societal fractures and the need for change. World Economic Forum. Available at: https://www.weforum.org/agenda/2021/07/racial-abuse-of-england-players-exposes-deep-societal-fractures-and-the-need-for-change/ [Accessed March 10, 2022]. 
+><br/>
+>Goldman Sachs, 2014. The World Cup and Economics 2014 - goldman sachs. The World Cup and Economics 2014. Available at: https://www.goldmansachs.com/insights/archive/world-cup-and-economics-2014-folder/world-cup-economics-report.pdf [Accessed March 10, 2022]. 
+><br/>
+>Graeme, B., 2020. How long does it take to build a football stadium? CoventryLive. Available at: https://www.coventrytelegraph.net/sport/football/football-news/how-long-take-build-football-18634036 [Accessed March 10, 2022]. 
+><br/>
+>Jones, R., 2022. Adidas suspends kit deal with Russian FA . SportsPro. Available at: https://www.sportspromedia.com/news/adidas-russia-football-kit-sponsorship-deal-suspended/#:~:text=with%20immediate%20effect.-,',US%2414.4%20million)%20per%20year. [Accessed March 24, 2022]. 
+><br/>
+>Juan, B., 2020. Hosting the FIFA World Cup: An economic ... - digital showcase. University of Lynchburg. Available at: https://digitalshowcase.lynchburg.edu/cgi/viewcontent.cgi?article=1159&context=utcp [Accessed March 12, 2022]. 
+><br/>
+>Kelly, R., 2018. World Cup 2018 prize money: How much do the winners get & countries' bonus payments. World Cup 2018 prize money: How much do the winners get & countries' bonus payments | Goal.com. Available at: https://www.goal.com/en-us/news/world-cup-2018-prize-money-how-much-do-the-winners-get-countries-/h9rstxkx3z6k1c8eonct5g1xa [Accessed March 15, 2022]. 
+><br/>
+>Matheson, V., 2014. Were the billions Brazil spent on World Cup stadiums worth it? FiveThirtyEight. Available at: https://fivethirtyeight.com/features/were-the-billions-brazil-spent-on-world-cup-stadiums-worth-it/ [Accessed March 21, 2022]. 
+><br/>
+>Olenski, S., 2014. The impact of the World Cup on online shopping and consumer spending. Forbes. Available at: https://www.forbes.com/sites/steveolenski/2014/07/17/the-impact-of-the-world-cup-on-online-shopping-and-consumer-spending/?sh=5237a8835ef1 [Accessed March 10, 2022]. 
+><br/>
+>Person, R., 2022. Adidas trumps rival Puma to supply Italian soccer kit from 2023. Reuters. Available at: https://www.reuters.com/lifestyle/sports/adidas-ousts-puma-kit-italy-soccer-team-2023-2022-03-09/ [Accessed March 13, 2022]. 
+><br/>
+>Published by M. Szmigiera & 12, M., 2021. Average real wage growth globally 2006-2019. Statista. Available at: https://es.statista.com/statistics/1234219/average-real-wage-growth-globally/ [Accessed March 10, 2022]. 
+><br/>
+>Riach, J., 2015. West Ham's Olympic Stadium running costs 'to be funded by taxpayer'. The Guardian. Available at: https://www.theguardian.com/football/2015/aug/06/bbc-claims-west-ham-olympic-stadium [Accessed March 25, 2022]. 
 <br/>
 Ward, A., 2018. 9 questions about the 2018 World Cup you were too embarrassed to ask. Vox. Available at: https://www.vox.com/2018/6/12/17356780/world-cup-2018-russia-teams-schedule-tickets [Accessed March 20, 2022]. 
 
