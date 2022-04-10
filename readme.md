@@ -60,9 +60,9 @@ The advantage of this approach include:
 ><br/>
 >•	Minimize assumptions required due to limited data, as opposed to GLM, GBM approaches. 
 <br/>
-<br/>
 It follows the below algorithm in simulating the outcome of the game. 
-
+<br/>
+<br/>
 <p align="center">
 <img src = "./assets/tpm.png" width = 60%>
 </p>
