@@ -339,6 +339,6 @@ Thank you for reading our project! This is a summary of the works in our final p
 >Published by M. Szmigiera & 12, M., 2021. Average real wage growth globally 2006-2019. Statista. Available at: https://es.statista.com/statistics/1234219/average-real-wage-growth-globally/ [Accessed March 10, 2022]. 
 ><br/>
 >Riach, J., 2015. West Ham's Olympic Stadium running costs 'to be funded by taxpayer'. The Guardian. Available at: https://www.theguardian.com/football/2015/aug/06/bbc-claims-west-ham-olympic-stadium [Accessed March 25, 2022]. 
-<br/>
-Ward, A., 2018. 9 questions about the 2018 World Cup you were too embarrassed to ask. Vox. Available at: https://www.vox.com/2018/6/12/17356780/world-cup-2018-russia-teams-schedule-tickets [Accessed March 20, 2022]. 
+><br/>
+>Ward, A., 2018. 9 questions about the 2018 World Cup you were too embarrassed to ask. Vox. Available at: https://www.vox.com/2018/6/12/17356780/world-cup-2018-russia-teams-schedule-tickets [Accessed March 20, 2022]. 
 
