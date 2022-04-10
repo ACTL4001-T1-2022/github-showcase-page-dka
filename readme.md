@@ -201,8 +201,9 @@ To meet and boost the projected growing demand of soccer in Rarita, DKA recommen
 ><br/>
 >•	Establish connections and sponsorships with local companies and the RFL.
 <br/>
-<br/>
 DKA has projected the revenue and expense (excluding initial investment cost) of the stadiums upon completion . We observe that stadiums could generate a strong revenue stream upon international success of RNT. The fund will be vital for future hosting endeavours and strengthening RFL and RNT. 
+<br/>
+<br/>
 <p align="center">
 <img src = "./assets/infr.png" width = 80%>
 </p>
@@ -296,7 +297,7 @@ DKA recommends that a 70% probability of adequacy is maintained.
 ## 7. Limitations
 
 <p align="center">
-<img src = "./assets/lim.png" width = 80%>
+<img src = "./assets/lim.png" width = 60%>
 </p>
 
 # Thank you!
