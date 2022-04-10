@@ -307,14 +307,15 @@ Thank you for reading our project! This is a summary of the works in our final p
 
 
 ## Reference List
-Ahmadu, S., NFF's new Nike deal worth $3.75M (743m Naira). NFF's new Nike deal worth $3.75m (743m Naira) | Goal.com. Available at: https://www.goal.com/en-ng/news/4093/nigerian-football/2015/04/27/11191922/nffs-new-nike-deal-worth-375m-743m-naira [Accessed March 12, 2022]. 
-<br/>
-Anon, 2016. Do big sporting events make us do more sport? BBC Future. Available at: https://www.bbc.com/future/article/20160805-do-big-sporting-events-make-us-do-more-sport [Accessed March 14, 2022]. 
-<br/>
-Anon, 2016. Nike extends kit sponsorship of France national football team in record deal. FashionNetwork.com. Available at: https://ww.fashionnetwork.com/news/Nike-extends-kit-sponsorship-of-france-national-football-team-in-record-deal,762524.html [Accessed March 3, 2022]. 
-<br/>
-Anon, How to become a football scout & how much do they earn? How to become a football scout & how much do they earn? | Goal.com. Available at: https://www.goal.com/en-ph/news/how-to-become-football-scout-how-much-they-earn/1at7qoa2mdeec18jk96trdsshy [Accessed March 26, 2022]. 
-<br/>
+
+>Ahmadu, S., NFF's new Nike deal worth $3.75M (743m Naira). NFF's new Nike deal worth $3.75m (743m Naira) | Goal.com. Available at: https://www.goal.com/en-ng/news/4093/nigerian-football/2015/04/27/11191922/nffs-new-nike-deal-worth-375m-743m-naira [Accessed March 12, 2022]. 
+><br/>
+>Anon, 2016. Do big sporting events make us do more sport? BBC Future. Available at: https://www.bbc.com/future/article/20160805-do-big-sporting-events-make-us-do-more-sport [Accessed March 14, 2022]. 
+><br/>
+>Anon, 2016. Nike extends kit sponsorship of France national football team in record deal. FashionNetwork.com. Available at: https://ww.fashionnetwork.com/news/Nike-extends-kit-sponsorship-of-france-national-football-team-in-record-deal,762524.html [Accessed March 3, 2022]. 
+><br/>
+>Anon, How to become a football scout & how much do they earn? How to become a football scout & how much do they earn? | Goal.com. Available at: https://www.goal.com/en-ph/news/how-to-become-football-scout-how-much-they-earn/1at7qoa2mdeec18jk96trdsshy [Accessed March 26, 2022]. 
+><br/>
 Dendir, S., 2016. Sports analytics : A guide for coaches, managers, and other decision makers. Available at: https://searchworks.stanford.edu/articles/nlebk__607491 [Accessed February 26, 2022]. 
 <br/>
 Farah, L. & Hesam, Z., 2021. Racial abuse of england players exposes deep societal fractures and the need for change. World Economic Forum. Available at: https://www.weforum.org/agenda/2021/07/racial-abuse-of-england-players-exposes-deep-societal-fractures-and-the-need-for-change/ [Accessed March 10, 2022]. 
