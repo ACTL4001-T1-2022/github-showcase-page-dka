@@ -53,10 +53,14 @@ We defined a 5-step approach to identify the optimal team for Rarita.
 We have has developed a simulation-based approach to predict the outcome of individual games. This model is used to validate the chosen Raritan National Team against the competitors. 
 
 The advantage of this approach include:
+<br/>
 •	Scalability of the model as there are no parameters defined.
+<br/>
 •	Results can be monitored as the model is independent of yearly data. 
+<br/>
 •	Minimize assumptions required due to limited data, as opposed to GLM, GBM approaches. 
-
+<br/>
+<br/>
 It follows the below algorithm in simulating the outcome of the game. 
 
 <p align="center">
