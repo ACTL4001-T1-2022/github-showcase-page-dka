@@ -290,6 +290,10 @@ DKA recommends that a 70% probability of adequacy is maintained.
 # Thank you!
 Thank you for reading our project! This is a summary of the works in our final project, which containts more in-depth methodology and justification!
 
+<p align="center">
+<img src = "./assets/thx.gif" width = 100%>
+</p>
+
 
 ## Reference List
 Ahmadu, S., NFF's new Nike deal worth $3.75M (743m Naira). NFF's new Nike deal worth $3.75m (743m Naira) | Goal.com. Available at: https://www.goal.com/en-ng/news/4093/nigerian-football/2015/04/27/11191922/nffs-new-nike-deal-worth-375m-743m-naira [Accessed March 12, 2022]. 
