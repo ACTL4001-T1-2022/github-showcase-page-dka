@@ -301,7 +301,7 @@ DKA recommends that a 70% probability of adequacy is maintained.
 </p>
 
 # Thank you!
-Thank you for reading our project! This is a summary of the works in our final project, which containts more in-depth methodology and justification!
+Thank you for reading our project! This is a summary of the works in our final project, which contains more in-depth methodology and justification!
 
 <p align="center">
 <img src = "./assets/thx.gif" width = 100%>
