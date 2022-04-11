@@ -11,6 +11,7 @@ Hi everyone! We are a team of two students who completed the SOA Student Challen
 
 :girl: Fan (Angela) Bu
 
+The final report can be found [here](dka_Final_Report.pdf).
 
 ---
 
