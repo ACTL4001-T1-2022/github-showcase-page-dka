@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
+markdown: GFM
+
+
+title: <img src = "./assets/dka.gif" width = 60%/>
+description:  Welcome to our github page!
+
+github:
+  is_project_page: true
