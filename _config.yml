@@ -4,7 +4,7 @@ plugins:
 markdown: GFM
 
 
-title: <img src = "./assets/dka.gif" width = 100%/>
+title: <img src = "./assets/dka.gif" width = 60%/>
 description: [ACTL 4001 Assignment]
 
 github:
