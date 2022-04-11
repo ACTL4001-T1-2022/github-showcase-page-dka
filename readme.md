@@ -18,20 +18,20 @@ The final report can be found [here](dka_Final_Report.pdf).
 ## Table of Contents
 
   * [Scope and Objectives](#scope-and-objectives)
-  * [Model Design](#model-design)
-  * [1. Team Performance Model](#1.-team-performance-model)
-  * [2. Team Selection](#2.-team-selection)
-  * [3. Economic Projection](#3.-economic-projection)
+  * [1. Model Design](#model-design)
+  * [2. Team Performance Model](#team-performance-model)
+  * [3. Team Selection](#team-selection)
+  * [4. Economic Projection](#economic-projection)
     + [Performance-Led Economic Impact](#performance-led-economic-impact)
     + [Project-Led Economic Impact](#project-led-economic-impact)
-  * [4. Implementation Plan](#4.-implementation-plan)
+  * [5. Implementation Plan](#implementation-plan)
     + [Team Selection](#team-selection)
     + [Infrastructure Developement](#infrastructure-developement)
     + [Net Cashflow](#net-cashflow)
     + [Reporting Metric](#reporting-metric)
-  * [5. Risk and Risk Mitigation](#5.-risk-and-risk-mitigation)
-  * [6. Adeqaucy Analysis](#6.-adeqaucy-analysis)
-  * [7. Limitations](#7.-limitations)
+  * [6. Risk and Risk Mitigation](#risk-and-risk-mitigation)
+  * [7. Adeqaucy Analysis](#adeqaucy-analysis)
+  * [8. Limitations](#limitations)
   * [Reference List](#reference-list)
 
 
@@ -50,7 +50,7 @@ We defined a 5-step approach to identify the optimal team for Rarita.
 <img src = "./assets/model.png" width = 100%>
 </p>
 
-## 1. Team Performance Model
+## Team Performance Model
 We have has developed a simulation-based approach to predict the outcome of individual games. This model is used to validate the chosen Raritan National Team against the competitors. 
 
 The advantage of this approach include:
@@ -77,7 +77,7 @@ After the group stage, we ran a seperate single elimination bracket using the si
 </p>
 
 
-## 2. Team Selection
+## Team Selection
 To choose the optimal team, we aim to maximise the key parameters using in the team performance model. For each player, we collated their relevant score in shooting, passing and defending, and calculated a score based in each area. This was then scaled based on thier position as below. 
 
 <p align="center">
@@ -100,7 +100,7 @@ The final team selected is as below.
 </p>
 
 
-## 3. Economic Projection
+## Economic Projection
 ### Performance-Led Economic Impact
 
 **Economic Growth and GDP**
@@ -175,7 +175,7 @@ _At this stage, we recommend the committee to host isolated, friendly tournament
 ><br/>
 >•	Introduce foreign investment into West Rarita, to reduce the inequality in wealth distribution. 
 
-## 4. Implementation Plan
+## Implementation Plan
 We have developed a multi-step implementation plan summarised below. The four key deliverables are team selection, infrastructure developement, academy setup and strenghtening the RFL. We have provided an overview for the first two deliverables, a more in-depth analysis of all projects is available  [here](04_ImplementationPlan.xlsx)
 
 <p align="center">
@@ -226,7 +226,7 @@ We advise the committee to perform an annual review, biannual strategy review an
 </p>
 
 
-## 5. Risk and Risk Mitigation
+## Risk and Risk Mitigation
 
 <p align="center">
 <img src = "./assets/rm.png" width = 90%>
@@ -274,7 +274,7 @@ We advise the committee to perform an annual review, biannual strategy review an
 <br/>
 <br/>
 
-## 6. Adeqaucy Analysis
+## Adeqaucy Analysis
 To further assess the solvency risk of the combined RNT project and whether additional funding is required, DKA conducted an adequacy analysis by:
 
 >•	Simulating the probability of adequacy over 10,000 simulations, by setting inflation, investment, and wage growth as random variables
@@ -295,7 +295,7 @@ DKA recommends that a 70% probability of adequacy is maintained.
 >•	Optimal allocation at 40% invested (with injection) as it is less subjected to investment fluctuations with significant benefit over not-investing. 
 
 
-## 7. Limitations
+## Limitations
 
 <p align="center">
 <img src = "./assets/lim.png" width = 60%>
