@@ -4,7 +4,7 @@ plugins:
 markdown: GFM
 
 
-title: Team DKA
+title: <img src = "./assets/dka.gif" width = 100%/>
 description: [ACTL 4001 Assignment]
 
 github:
