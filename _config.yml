@@ -1,10 +1,11 @@
-   
 theme: jekyll-theme-cayman
 plugins:
   - jemoji
 markdown: GFM
 
 
-title: <img src = "./assets/dka.gif" width = 60%/>
-description: [ACTL 4001 Assignment - 2022 SOA Student Challenge]
+title: <img src = "./assets/dka.gif" width = 100%/>
+description: [ACTL 4001 Assignment]
 
+github:
+  is_project_page: false
