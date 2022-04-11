@@ -1,7 +1,3 @@
-
-_ACTL 4001 - 2022 SOA Student Challenge_
-
-
 # About DKA
 Hi everyone! We are a team of two students who completed the SOA Student Challenge as part of the ACTL4001 course.
 
