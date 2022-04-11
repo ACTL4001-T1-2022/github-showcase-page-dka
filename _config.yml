@@ -5,7 +5,7 @@ markdown: GFM
 
 
 title: <img src = "./assets/dka.gif" width = 60%/>
-description: [ACTL 4001 Assignment]
+description: 
 
 github:
-  is_project_page: false
+  is_project_page: true
